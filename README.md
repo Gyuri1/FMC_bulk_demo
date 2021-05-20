@@ -1,7 +1,12 @@
 # FMC_bulk_demo
 
 This demo shows the effectiveness of bulk method. 
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">INSPIRATION DAY</span>
+
+<style>
+  .markdown-body table td {
+    font-size: 12px !important;
+  }
+</style>
 
 Use:
 
