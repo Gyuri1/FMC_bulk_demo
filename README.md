@@ -2,11 +2,7 @@
 
 This demo shows the effectiveness of bulk method. 
 
-<style>
-  .markdown-body table td {
-    font-size: 12px !important;
-  }
-</style>
+
 
 Use:
 
